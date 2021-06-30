@@ -1,0 +1,7 @@
+Refract
+{
+	$normalmap refract_nrm
+	$refracttinttexture refract_tex
+	$refractamount .2
+	$bluramount 1
+}
